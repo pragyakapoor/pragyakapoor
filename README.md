@@ -19,16 +19,13 @@
 <ul>
     <li><a href="#predie">PREDIE: Used-Cars Price Prediction Portal</a></li>
     <li><a href="#dbug">d.bug: Code Review Platform</a></li>
-    <li><a href="#screcio">screc.io: Open Source, Minimal, Easy-to-use Screen Recorder App</a></li>
-    <li><a href="#unify">uniFy: Integration of Timetable, Mess Menu, College Floor Plans and Course details into a single Cross-Platform Flutter app</a></li>
 </ul>
 
 
 <h3>🎉 Hackathons</h3>
 
 <ul>
-    <li>Smart India Hackathon 2020 - Grand Finalist, organised by MHRD India</li>
-    <li>Walmart Sparkplug Hackathon 2020 - Top 15, organised by Walmart Labs, India</li>
+    <li>Smart India Hackathon 2020 - Grand Finalist, organized by MHRD India</li>
 </ul>
 
 
