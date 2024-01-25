@@ -2,7 +2,7 @@
 <h3 align="center">A code, coffee, and AI enthusiast. This is a Byte-sized glimpse into my world of bits and bytes!</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🎓 Currently Pursuing a [Master's of Computer Science at the](https://uni-freiburg.de/)
+- 🎓 Currently Pursuing a Master's of Computer Science at the <a href="https://uni-freiburg.de/">Albert-Ludwigs-Universität Freiburg</a>
 
 - 🎓 Bachelor of Technology from **NIIT University, Neemrana**
 
