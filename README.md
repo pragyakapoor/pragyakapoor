@@ -17,7 +17,7 @@
 <h3>🚀 Take a look at some of my Open-Source projects</h3>
 
 <ul>
-    <li><a href="#predie">PREDIE: Used-Cars Price Prediction Portal</a></li>
+    <li><a href="https://github.com/pragyakapoor/PREDIE---capstone-project">PREDIE: Used-Cars Price Prediction Portal</a></li>
     <li><a href="#dbug">d.bug: Code Review Platform</a></li>
 </ul>
 
